@@ -1,6 +1,8 @@
-FROM node:18-alpine
+FROM node:lts-buster
 WORKDIR /app
 COPY package*.json ./
-RUN npm install
+RUN npm install && npm install -g qrcode-terminal pm2
 COPY . .
-CMD ["node", "start.js"]
+EXPOSE 3000
+CMD ["npm", "start"]
+
