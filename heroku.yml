@@ -1,6 +1,3 @@
 build:
-  buildpacks:
-    - heroku/nodejs
-
-run:
-  web: npm start
+  docker:
+    web: Dockerfile
