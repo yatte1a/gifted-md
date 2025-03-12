@@ -1,4 +1,4 @@
-**[DOCS](https://pairing.giftedtech.web.id)**
+**[SESSION_DOCS](https://pairing.giftedtech.web.id)**
 
 **[GIFTED_YDL](https://youtube.giftedtech.web.id)**
 
