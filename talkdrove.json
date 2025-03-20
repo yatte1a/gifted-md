@@ -1,15 +1,10 @@
 {
-  "name": "gifted-md",
-  "version": "5.0.0",
+  "bot-name": "gifted-md",
   "description": "I am Gifted-Md, a Simple WhatsApp Bot built with NodeJs to Enhance WhatsApp Communication experience",
-  "website": "https://session.giftedtech.my.id",
   "logo": "https://files.catbox.moe/52699c.jpg",
   "keywords": ["gifted-md", "giftedtech", "Gifted-Md"],
   "documentation-link": "https://pairing.giftedtech.web.id",
   "owner-verification":"jemmimaonyango@gmail.com",
-  "repository": "https://github.com/mouricedevs/gifted",
-  "success_url": "/",
-  "stack": "container",
   "env": {
     "SESSION_ID": {
       "description": "Put your session-id here. Must Start with 'Gifted~'",
@@ -161,16 +156,5 @@
       "required": true,
       "value": "."
     }
-  },
-  "formation": {
-    "web": {
-      "quantity": 1,
-      "size": "basic"
-    }
-  },
-  "buildpacks": [
-    {
-      "url": "heroku/nodejs"
-    }
-  ]
+  }
   }
