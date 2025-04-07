@@ -1,5 +1,7 @@
 **[SESSION_DOCS](https://pairing.giftedtech.web.id)**
 
+- After obtaining your session ID, you can now use below validator to see whether bot will respond or fail to respond after deployment. This helps to avoid complains of bot active but not responding.
+  
 **[SESSION_VALIDATOR](https://pairing.giftedtech.web.id/validate)**
 
 **[GIFTED_YDL](https://youtube.giftedtech.web.id)**
